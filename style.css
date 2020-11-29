@@ -1,0 +1,82 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: antiquewhite;
+}
+#book{
+    width: 200px;
+    height: 160px;
+    border-radius: 360px;
+}
+p{
+    padding-left: 200px;
+    padding-right: 200px;
+    height: 150px;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: center;
+    top: 10px;
+    left: 30px;
+    cursor: pointer;
+    color: black;
+}
+.links{
+    float: right;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+h1 {
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+}
+h2 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+}
+#intro{
+    background-color: lavenderblush;
+    
+}
+#info{
+    font-size: 20px;
+   background-color: lavender;
+}
+h3{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+html{
+    scroll-behavior: smooth;
+}	
+img{
+    height: 500px;
+    width: 300px
+}
+#my work{
+    background-color: gold;
+}
+#pic1{
+    height: 500px;
+    width: 800px
+}
+#pic2{
+    height: 500px;
+    width: 500px
+}
+img{
+    transition: transform .2s;
+    border: 10px solid: #aaaaaa;
+    
+}
+img:hover{
+   transform: scale(0.9);
+}
